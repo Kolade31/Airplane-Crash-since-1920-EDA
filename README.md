@@ -24,9 +24,9 @@ The Following steps were taken for data cleaning: –
 3. Extracting Country, State and city from the location column. Challenges - For some countries (e.g. United States), country name is not present only state name is present.
 # Exploratory data analysis 
 ## Summaries and Findings.
-• United States has seen significantly more number of crashes and fatalities resulting from them than any other country. 
-• Although there have been many incidents in United States, the number of fatalities are low.
-• There was a peak observed in number of incidents and fatalities during the period 1965-1975 and since there has been decline in both these metrics.
-• Aeroflot and Military - U.S. Air Force are worst operators as they have been responsible for a large number of aircraft crashes.
-• Douglas Dc-3 types of aircraft are most prone to crashes.
-• Text analysis for summary of incidents show that major incidents are due to pilots, engine failures, approach, during take-off, on the runway, mountains and altitude.
+1. United States has seen significantly more number of crashes and fatalities resulting from them than any other country. 
+2. Although there have been many incidents in United States, the number of fatalities are low.
+3. There was a peak observed in number of incidents and fatalities during the period 1965-1975 and since there has been decline in both these metrics.
+4. Aeroflot and Military - U.S. Air Force are worst operators as they have been responsible for a large number of aircraft crashes.
+5. Douglas Dc-3 types of aircraft are most prone to crashes.
+6. Text analysis for summary of incidents show that major incidents are due to pilots, engine failures, approach, during take-off, on the runway, mountains and altitude.
